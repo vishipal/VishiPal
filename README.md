@@ -46,9 +46,9 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=vishipal&show_icons=true&include_all_commits=true&count_private=false&rank_icon=github&hide_border=true" alt="Vishi's GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=vishipal&show_icons=true&theme=default&hide_border=true" alt="Vishi's GitHub Stats" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishipal&layout=compact&langs_count=8&hide_border=true" alt="Vishi's Top Languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishipal&layout=compact&theme=default&hide_border=true" alt="Vishi's Top Languages" />
 
 </div>
 
@@ -58,7 +58,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=vishipal&hide_border=true" alt="Vishi's GitHub Contribution Streak" />
+<img src="https://streak-stats.demolab.com?user=vishipal&theme=default&hide_border=true" alt="Vishi's GitHub Contribution Streak" />
 
 </div>
 
@@ -68,7 +68,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishipal&hide_border=true&area=true" alt="Vishi's GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishipal&theme=github-compact&hide_border=true&area=true" alt="Vishi's GitHub Activity Graph" />
 
 </div>
 
@@ -88,7 +88,7 @@
 
 ### 🍔 Food Website
 
-A food website built using HTML, CSS and JavaScript with an interactive and responsive user interface.
+A food website built using **HTML, CSS and JavaScript** with an interactive and responsive user interface.
 
 **Tech:** HTML • CSS • JavaScript
 
@@ -98,7 +98,7 @@ A food website built using HTML, CSS and JavaScript with an interactive and resp
 
 ### 💬 ABTalks
 
-A collaborative hackathon project built using React and Vite.
+A collaborative hackathon project built using **React and Vite**.
 
 **Tech:** React • Vite • JavaScript
 
@@ -136,3 +136,7 @@ Currently practicing:
 Web Development → HTML • CSS • JavaScript • React
 Programming     → C++ • Python
 DSA             → Problem Solving • LeetCode • CodeChef
+
+
+
+
